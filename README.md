@@ -1,5 +1,5 @@
 # Statistics-with-Python
-Statistical Packages Used: scipy & statsmodels
+Statistical packages used: scipy & statsmodels
 
 **Objective:** Each module aims to reinforce and demonstrate conceptual understanding of various statistical analysis approaches using Python.
 
