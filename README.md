@@ -1,6 +1,6 @@
 # Statistics-with-Python
-Inferential Statistics w/ Python
+**Inferential Statistics w/ Python**
+Statistical Packages Used: scipy & statsmodels
 
-Each module aims to reinforce and demonstrate conceptual understanding of various statistical analysis approaches using Python.
+**Objective:** Each module aims to reinforce and demonstrate conceptual understanding of various statistical analysis approaches using Python.
 
-Libraries Used: Scipy & ScikitLearn
